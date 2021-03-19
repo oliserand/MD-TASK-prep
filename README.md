@@ -1,5 +1,5 @@
 # MD-TASK-prep
-Reduces the size of an protein MD trajectory by removing water and selecting only CB and CA atoms.
+Reduces the size of a protein MD trajectory by removing water and selecting only CB and CA atoms.
 By default it will attempt to use any of MDTraj, MDAnalysis, PYTRAJ, CPPTRAJ, GROMACS and VMD.
 All the other parameters are optional.
 
